@@ -3,7 +3,7 @@
 - [ ] hello
 - [ ] goodbye
 
-> [!NOTE]\   
+> [!NOTE]\
 > this is cool
 
 - list1234567
