@@ -3,8 +3,8 @@
 - [ ] hello
 - [ ] goodbye
 
-> \[!NOTE]\
-> this is cool
+> \[!NOTE]
+> this \*skip bold\* is *apply bold*
 
 :warning: warning1
 
