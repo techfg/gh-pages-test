@@ -3,6 +3,9 @@
 - [ ] hello
 - [ ] goodbye
 
+> \\[!NOTE]
+> note bracket double escaped - \*skip bold\* is *apply bold*
+
 > \[!NOTE]
 > note bracket escaped - \*skip bold\* is *apply bold*
 
