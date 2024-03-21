@@ -6,7 +6,7 @@
 > \[!NOTE]\
 > this is cool
 
-:warning hello
+:::warning hello
 
 :::warning
 FOobar is cool2
