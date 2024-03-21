@@ -6,6 +6,8 @@
 > \[!NOTE]\
 > this is cool
 
+⚠️Hello
+
 :::warning
 FOobar is cool2
 :::
