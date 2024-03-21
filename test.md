@@ -6,6 +6,10 @@
 > \[!NOTE]\
 > this is cool
 
+:::note
+FOobar is cool2
+:::
+
 - list1234567
 - item123456
 - foo123456
