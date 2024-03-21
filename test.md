@@ -4,7 +4,10 @@
 - [ ] goodbye
 
 > \[!NOTE]
-> this \*skip bold\* is *apply bold*
+> note bracket escaped - \*skip bold\* is *apply bold*
+
+> [!NOTE]
+> note bracket not escaped - \*skip bold\* is *apply bold*
 
 :warning: warning1
 
