@@ -12,7 +12,7 @@
 
 ::youtube[Video of a cat in a box]{#01ab2cd3efg}
 
-> :warning hello1
+> :warning: hello1
 
 > ::warning hello2
 
