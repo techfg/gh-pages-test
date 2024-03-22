@@ -15,9 +15,11 @@ Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 > :warning: Warning\
 > Hi there warning
 
+ℹ️
+
 start
 
-> :information_source: **Note**
+> ℹ️ **Note**
 > 
 > Highlights information that users should take into account, even when skimming.
 
