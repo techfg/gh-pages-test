@@ -19,7 +19,7 @@ Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 
 start
 
-> 🛈 ** Note **
+> **🛈 Note**
 > Try this
 
 > ℹ️ **Note**
