@@ -10,6 +10,13 @@ Hello
 Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 :::
 
+:warning: Hi there warning
+
+> :warning:
+> Hi there warning
+
+> :warning: Info
+> Hi there info
 
 > \\[!NOTE]
 > note bracket double escaped - \*skip bold\* is *apply bold*
