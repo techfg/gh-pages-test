@@ -3,6 +3,9 @@
 - [ ] hello
 - [ ] goodbye
 
+**Warning:**
+Hello
+
 :::note[Prefer to install Astro manually?]
 Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 :::
