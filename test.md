@@ -24,11 +24,11 @@ start
 
 > ℹ️ **Note**
 > 
-> Highlights information that users should take into account, even when skimming.
+> High2222lights information that users should take into account, even when skimming.
 
 > :information_source: **Note**
 > 
-> Highlights information that users should take into account, even when skimming.
+> Hig333hlights information that users should take into account, even when skimming.
 
 > [!NOTE]
 > note bracket double escaped - \*skip bold\* is *apply bold*
