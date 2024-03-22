@@ -8,7 +8,7 @@ Hello
 
 :warning: **_Given that Zepto is no longer actively developed and with plans in the ImageMapster Roadmap to convert to a Native JS Library, ImageMapster will be officially dropping support of Zepto as of ImageMapster v2.0.0._**
 
-> ⚠️ **Warning**\
+> ⚠️ **Warning**
 >
 Given that Zepto is no longer actively developed and with plans in the ImageMapster Roadmap to convert to a Native JS Library, ImageMapster will be officially dropping support of Zepto as of ImageMapster v2.0.0.
 
