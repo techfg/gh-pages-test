@@ -23,7 +23,7 @@ start
 > Try this
 
 > ℹ️ **Note**
-> 
+>
 > High2222lights information that users should take into account, even when skimming.
 
 > :information_source: **Note**
