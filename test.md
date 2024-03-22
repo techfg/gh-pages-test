@@ -15,6 +15,8 @@ Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 > :warning: Warning\
 > Hi there warning
 
+start
+
 > :information_source: **Note**
 > 
 > Highlights information that users should take into account, even when skimming.
@@ -25,6 +27,8 @@ Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 
 > [!NOTE]
 > note bracket double escaped - \*skip bold\* is *apply bold*
+
+finish
 
 > \[!NOTE]
 > note bracket escaped - \*skip bold\* is *apply bold*
