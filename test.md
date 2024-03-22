@@ -3,6 +3,11 @@
 - [ ] hello
 - [ ] goodbye
 
+:::note[Prefer to install Astro manually?]
+Read our [step-by-step manual installation guide](/en/install/manual/) instead.
+:::
+
+
 > \\[!NOTE]
 > note bracket double escaped - \*skip bold\* is *apply bold*
 
