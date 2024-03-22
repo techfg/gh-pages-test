@@ -3,7 +3,7 @@
 - [ ] hello
 - [ ] goodbye
 
-**Warning:**
+> **Warning:**
 Hello
 
 :::note[Prefer to install Astro manually?]
