@@ -23,7 +23,7 @@ start
 > 
 > Highlights information that users should take into account, even when skimming.
 
-> **:information_source: Note**
+> :information_source: **Note**
 > 
 > Highlights information that users should take into account, even when skimming.
 
