@@ -15,8 +15,9 @@ Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 > :warning: Warning\
 > Hi there warning
 
-> :warning: Info
-> Hi there info
+> :information_source: Note
+> 
+> Highlights information that users should take into account, even when skimming.
 
 > \\[!NOTE]
 > note bracket double escaped - \*skip bold\* is *apply bold*
