@@ -12,7 +12,7 @@ Read our [step-by-step manual installation guide](/en/install/manual/) instead.
 
 :warning: Hi there warning
 
-> :warning:
+> :warning: Warning\
 > Hi there warning
 
 > :warning: Info
