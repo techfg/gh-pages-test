@@ -1,4 +1,5 @@
 [My File Link](file://./index.md)
+[My File Link](https://./index.md)
 
 ### `tableOfContents`
 
