@@ -1,6 +1,9 @@
 [My File Link](www.foo.bar/index.md)
 [My File Link](https://./index.md)
 
+[Win Link](.\docs\index.md)
+[Linux Link](./docs/index.md)
+
 ### `tableOfContents`
 
 **type:** `false | { minHeadingLevel?: number; maxHeadingLevel?: number; }`  
