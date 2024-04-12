@@ -1,3 +1,5 @@
+[My File Link](file://./index.md)
+
 ### `tableOfContents`
 
 **type:** `false | { minHeadingLevel?: number; maxHeadingLevel?: number; }`  
